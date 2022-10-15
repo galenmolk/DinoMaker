@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e136b5c5feea406ba5ec9bb3203b24f0, type: 3}
+  m_Name: RightHandCategory
+  m_EditorClassIdentifier: 
+  thumbnailOption: {fileID: 11400000, guid: ff1400434c90649ecbb71bbe63bb52da, type: 2}
+  options:
+  - {fileID: 11400000, guid: ff1400434c90649ecbb71bbe63bb52da, type: 2}
+  - {fileID: 11400000, guid: bdd6bbdfd2ad340bdb90c7b5ca6499ac, type: 2}
+  - {fileID: 11400000, guid: 4596e8a51899c49e4a51888a72b08b35, type: 2}
+  - {fileID: 11400000, guid: 042d51ef4732c44d39e6047c3e0a2285, type: 2}
+  - {fileID: 11400000, guid: 2302e47efe5ca4eef92b3066d481e209, type: 2}
+  - {fileID: 11400000, guid: 77f87692738014b17972664daee61547, type: 2}
+  - {fileID: 11400000, guid: 257c5232c3c924ddc900dc1194e1c9db, type: 2}
+  required: 0
+  categoryName: Right Hand
