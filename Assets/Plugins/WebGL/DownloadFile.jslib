@@ -1,7 +1,7 @@
 mergeInto(LibraryManager.library, {
   DownloadFile : function(array, size, fileNamePtr)
    {
-       var fileName = UTF8ToString(fileNamePtr);
+       var fileName = UTF8ToString(fileNamePtr) + '.jpg';
     
        var bytes = new Uint8Array(size);
        for (var i = 0; i < size; i++)
